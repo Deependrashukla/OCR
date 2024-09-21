@@ -1,0 +1,7 @@
+pytesseract
+opencv-python
+
+flask 
+python-dotenv # make able to create a flaskenv file
+# flask-smorest
+streamlit
