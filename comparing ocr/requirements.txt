@@ -1,0 +1,12 @@
+matplotlib
+easyocr
+opencv_python_headless
+numpy
+pytesseract
+keras-ocr
+# tensorflow
+#otherwise torch will unable to connect and throws an error 
+tensorflow==2.15
+torch
+
+
